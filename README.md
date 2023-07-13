@@ -1,1 +1,1 @@
-# DiceProject-JavaScript
+# DiceeProject-JavaScript
